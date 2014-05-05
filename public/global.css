@@ -42,9 +42,13 @@ ul#menu li:hover{
     width: 80%;
     background-color: brown; 
 }
- body { background-color: orange;
-// background: url('c:/image.jpg') no-repeat;
- }
+ body {
+// background-color: red;
+ background: url('image.jpg') no-repeat;
+ background-size: cover;
+ background-position: center 0;
+ background-attachment: fixed; 
+}
 #OUTPUT 
 {
     background-color: brown; 
