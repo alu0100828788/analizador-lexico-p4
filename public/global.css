@@ -39,8 +39,8 @@ ul#menu li:hover{
     height: 1in;
     overflow: auto;
     /* padding: 0.5em; */
-    width: 80%;
-    background-color: brown; 
+    width: 120%;
+    background-color: blue; 
 }
  body {
 // background-color: red;
