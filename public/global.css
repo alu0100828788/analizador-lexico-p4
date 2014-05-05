@@ -33,8 +33,8 @@ ul#menu li:hover{
 
 #INPUT 
 {
-    border: solid; 
-    color: black;
+    border: solid 10px; 
+    color: orange;
     font-family: monospace;
     height: 1in;
     overflow: auto;
@@ -51,7 +51,8 @@ ul#menu li:hover{
 }
 #OUTPUT 
 {
-    background-color: yellow; 
+    background-color: red; 
+    border: 10px solid blue;
     width: 80%;
 }
 
