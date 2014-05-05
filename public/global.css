@@ -1,6 +1,6 @@
 html *
 {
-    th {background-color: thistle; border: black solid 1px; text-align: left;
+    th {background-color: brown; border: black solid 1px; text-align: left;
         padding-left: 10px; padding-right: 10px; vertical-align: top;}
     td {background-color: white; border: black solid 1pt; padding-left: 10px;
         padding-right: 10px; vertical-align: top;}
@@ -8,12 +8,12 @@ html *
 }
 
 ul#menu {
- background-color: white;
- -moz-border-radius: 40px;
- -webkit-border-radius: 25px;
+ background-color: pink;
+ -moz-border-radius: 20px;
+ -webkit-border-radius: 20px;
  border: 10px dashed green;
  width: 80%;
- height: 50px;
+ height: 30px;
  padding: 10px;
 
 }
@@ -33,14 +33,14 @@ ul#menu li:hover{
 
 #INPUT 
 {
-    border: none; 
-    color: black;
+    border: solid; 
+    color: red;
     font-family: monospace;
     height: 1in;
     overflow: auto;
     /* padding: 0.5em; */
     width: 50%;
-    background-color: gold; 
+    background-color: green; 
 }
  body {
 // background-color: red;
