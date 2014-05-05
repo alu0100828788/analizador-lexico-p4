@@ -6,7 +6,7 @@ html *
         padding-right: 10px; vertical-align: top;}
     table {width: 90%; border: 0px; cellpadding: 0px;}
 }
-
+h1{color: white; font-size: 20px;}
 ul#menu {
  background-color: pink;
  -moz-border-radius: 20px;
@@ -34,9 +34,9 @@ ul#menu li:hover{
 #INPUT 
 {
     border: solid; 
-    color: white;
+    color: black;
     font-family: monospace;
-    height: 3in;
+    height: 1in;
     overflow: auto;
     /* padding: 0.5em; */
     width: 50%;
@@ -57,17 +57,17 @@ ul#menu li:hover{
 
 
 a {
-  font-size: 2x-large;
+  font-size: x-large;
   text-decoration:none;
 }
 
-a:link { color:#00FFFF; }
+a:link { color: black; }
 a:visited { color:black; }
 a:hover{ 
-  background-color:black; 
-  color: #FFF;
+  background-color:pink; 
+  color: black;
 }
-a:active {color:#0000FF;}  /* selected link */
+a:active {color: brown;}  /* selected link */
 
 
 
