@@ -39,12 +39,12 @@ ul#menu li:hover{
     height: 1in;
     overflow: auto;
     /* padding: 0.5em; */
-    width: 120%;
-    background-color: blue; 
+    width: 50%;
+    background-color: gold; 
 }
  body {
 // background-color: red;
- background: url('image.jpg') no-repeat;
+ background: url('image1.jpg') no-repeat;
  background-size: cover;
  background-position: center 0;
  background-attachment: fixed; 
