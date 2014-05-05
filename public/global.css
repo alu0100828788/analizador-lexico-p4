@@ -11,7 +11,7 @@ ul#menu {
  background-color: pink;
  -moz-border-radius: 20px;
  -webkit-border-radius: 20px;
- border: 10px dashed green;
+ border: 10px solid green;
  width: 80%;
  height: 30px;
  padding: 10px;
@@ -34,16 +34,16 @@ ul#menu li:hover{
 #INPUT 
 {
     border: solid; 
-    color: red;
+    color: white;
     font-family: monospace;
-    height: 1in;
+    height: 3in;
     overflow: auto;
     /* padding: 0.5em; */
     width: 50%;
     background-color: green; 
 }
  body {
-// background-color: red;
+// background-color: black;
  background: url('image1.jpg') no-repeat;
  background-size: cover;
  background-position: center 0;
@@ -51,13 +51,13 @@ ul#menu li:hover{
 }
 #OUTPUT 
 {
-    background-color: brown; 
+    background-color: yellow; 
     width: 80%;
 }
 
 
 a {
-  font-size: x-large;
+  font-size: 2x-large;
   text-decoration:none;
 }
 
