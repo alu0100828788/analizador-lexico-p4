@@ -8,12 +8,12 @@ html *
 }
 
 ul#menu {
- background-color: gold;
- -moz-border-radius: 25px;
+ background-color: white;
+ -moz-border-radius: 40px;
  -webkit-border-radius: 25px;
  border: 10px dashed green;
- width: 100%;
- height: 40px;
+ width: 80%;
+ height: 50px;
  padding: 10px;
 
 }
